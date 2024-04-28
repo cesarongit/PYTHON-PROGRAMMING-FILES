@@ -1,0 +1,1 @@
+path_to_mask_detection_model.h5
